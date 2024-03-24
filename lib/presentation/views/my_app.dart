@@ -54,7 +54,6 @@ class _MyAppState extends  ConsumerState<MyApp> {
             ),
             VSpace.large,
             Text('Chnage the color of the text when in dark mode', 
-            // style: Styles.themeData(themeChangeProvider.darkTheme, context),
             ),
 
           

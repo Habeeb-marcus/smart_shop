@@ -25,7 +25,6 @@ class Styles {
         inversePrimary: isDarkTheme ? AppColors.white : AppColors.black5
       ),
 
-      // primarySwatch: Colors.blue,
 
       //!Text Theme and Color Assignment
       textTheme: GoogleFonts.mulishTextTheme(
